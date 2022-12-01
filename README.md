@@ -14,9 +14,7 @@
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
-<h3>
-    <i>- Currently working at Bks </i>
-</h3>
+
 <br>
 
 
