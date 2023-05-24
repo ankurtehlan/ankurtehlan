@@ -1,25 +1,12 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
+<!-- <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Ankur Tehlan
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
+</h1> -->
 
-
-
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
-
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
-
-
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-
-
+# Hi, I'm Ankur 👋🏾 👩🏾‍💻
 
 
 
@@ -79,7 +66,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+<h2><i>## Find me around the web 🌎:</i></h2>
 
 
 <p align="left">
