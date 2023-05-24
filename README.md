@@ -22,7 +22,7 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat">
+    <a href="https://github.com/ankurtehlant">
         <img src="https://komarev.com/ghpvc/?username=ankurtehlan&label=Profile%20views&color=0e75b6&style=flat" alt="ankurtehlan" />
     </a>
     <a href="https://github.com/ankurtehlan?tab=followers">
@@ -68,7 +68,7 @@
 
 <p align="left">
     <a href="https://linkedin.com/in/ankurtehlan">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/ankurtehlan" />
     </a>
     <a href="https://twitter.com/ankurtehlan">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ankurtehlan" />
