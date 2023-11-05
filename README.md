@@ -71,7 +71,7 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/ankurtehlan" />
     </a>
     <a href="https://twitter.com/ankur_tehlan">
-        <img align="center" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fankur_tehlan&style=for-the-badge&logo=x&logoColor=black&labelColor=white&color=white
+        <img align="center" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fankur_tehlan&style=for-the-badge&logo=X&logoColor=black&labelColor=white&color=white"
 " alt="https://twitter.com/ankur_tehlan" />
     </a>
 <!--     <a href="https://ankurtehlan.herokuapp.com/">
