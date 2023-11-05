@@ -25,11 +25,8 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/ankurtehlant">
+    <a href="https://github.com/ankurtehlan">
         <img src="https://komarev.com/ghpvc/?username=ankurtehlan&label=Profile%20views&color=0e75b6&style=flat" alt="ankurtehlan" />
-    </a>
-    <a href="https://github.com/ankurtehlan?tab=followers">
-        <img src="https://img.shields.io/github/followers/ankurtehlan?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
