@@ -70,12 +70,13 @@
     <a href="https://linkedin.com/in/ankurtehlan">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/ankurtehlan" />
     </a>
-    <a href="https://twitter.com/ankurtehlan">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ankurtehlan" />
+    <a href="https://twitter.com/ankur_tehlan">
+        <img align="center" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fankur_tehlan&style=for-the-badge&logo=x&logoColor=black&labelColor=white&color=white
+" alt="https://twitter.com/ankur_tehlan" />
     </a>
-    <a href="https://ankurtehlan.herokuapp.com/">
+<!--     <a href="https://ankurtehlan.herokuapp.com/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ankurtehlan.herokuapp.com/" />
-    </a>
+    </a> -->
     <a title="ankurtehlan2000@gmail.com" href="mailto:ankurtehlan2000@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ankurtehlan2000@gmail.com" />
     </a>
