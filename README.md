@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Tehlan</h1>
-<h3 align="center">- I'm a Frontend Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
+<h3 align="center">- I'm a Full Stack Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurtehlan&label=Profile%20views&color=0e75b6&style=flat" alt="ankurtehlan" /> </p>
 
